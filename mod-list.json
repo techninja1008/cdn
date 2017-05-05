@@ -1,0 +1,124 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "FARL",
+      "enabled": false
+    },
+    {
+      "name": "GDIW",
+      "enabled": false
+    },
+    {
+      "name": "aai-signals",
+      "enabled": false
+    },
+    {
+      "name": "aai-vehicles-chaingunner",
+      "enabled": false
+    },
+    {
+      "name": "aai-vehicles-flame-tumbler",
+      "enabled": false
+    },
+    {
+      "name": "aai-vehicles-hauler",
+      "enabled": false
+    },
+    {
+      "name": "aai-vehicles-laser-tank",
+      "enabled": false
+    },
+    {
+      "name": "aai-vehicles-miner",
+      "enabled": false
+    },
+    {
+      "name": "aai-zones",
+      "enabled": false
+    },
+    {
+      "name": "arumbalights-fix",
+      "enabled": true
+    },
+    {
+      "name": "AutoTrash",
+      "enabled": false
+    },
+    {
+      "name": "bobinserters",
+      "enabled": false
+    },
+    {
+      "name": "bullet-trails",
+      "enabled": false
+    },
+    {
+      "name": "data-raw-prototypes",
+      "enabled": false
+    },
+    {
+      "name": "detached-gun-sounds",
+      "enabled": false
+    },
+    {
+      "name": "Expanded_Robot_Tech",
+      "enabled": false
+    },
+    {
+      "name": "Factorissimo2",
+      "enabled": true
+    },
+    {
+      "name": "LoaderRedux",
+      "enabled": true
+    },
+    {
+      "name": "logistic-research-fix",
+      "enabled": false
+    },
+    {
+      "name": "long-reach",
+      "enabled": true
+    },
+    {
+      "name": "Nanobots",
+      "enabled": true
+    },
+    {
+      "name": "off-grid-effects",
+      "enabled": false
+    },
+    {
+      "name": "Researcher",
+      "enabled": false
+    },
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    {
+      "name": "textplates",
+      "enabled": false
+    },
+    {
+      "name": "tree_collision",
+      "enabled": true
+    },
+    {
+      "name": "upgrade-planner",
+      "enabled": true
+    },
+    {
+      "name": "aai-programmable-structures",
+      "enabled": true
+    },
+    {
+      "name": "aai-programmable-vehicles",
+      "enabled": true
+    }
+  ]
+}
