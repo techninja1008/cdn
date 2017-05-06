@@ -33,6 +33,6 @@ $(function(){
       }
     }
     
-    $("body")[0].innerHtml = "<img src=\"" + pictures[index] + "\" />";
+    $("body")[0].innerHTML = "<img src=\"" + pictures[index] + "\" />";
   }, 5000);
 });
