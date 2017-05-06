@@ -11,7 +11,7 @@ var pictureMap = {
 (function(){
   var out = [];
   for(var i = 0; i < 160; i++) {
-    out.append("./1/DSC_" + pad(i + 1, 34) +  ".JPG");
+    out.push("./1/DSC_" + pad(i + 1, 34) +  ".JPG");
   }
   pictureMap["1"] = out;
 })();
