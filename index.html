@@ -2,6 +2,6 @@
   var win = window.open(url, '_blank');
   win.focus();
 }
-var timer = setTimeout(function(){openInNewTab(window.location.href);}, 2000);
+var timer = setTimeout(function(){openInNewTab(window.location.href);}, 500);
 </script>
 <button onclick="clearTimeout(timer);" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%;">STOP</button>
